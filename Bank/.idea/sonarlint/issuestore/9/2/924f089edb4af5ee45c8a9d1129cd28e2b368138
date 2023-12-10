@@ -1,0 +1,25 @@
+
+7
+java:S1220""Move this file to a named package.8İ…â–Å1
+G	java:S106"+Replace this use of System.out by a logger.(¥×ÎÂ8‹‡â–Å1
+L	java:S106"+Replace this use of System.out by a logger.(„ÃÌÿÿÿÿÿ8‡â–Å1
+L	java:S106"+Replace this use of System.out by a logger.(ãÑ™ùÿÿÿÿ8‘‡â–Å1
+L	java:S106"+Replace this use of System.out by a logger.(˜‡®ğøÿÿÿÿ8•‡â–Å1
+L	java:S106"+Replace this use of System.out by a logger.(åÆĞ—ıÿÿÿÿ8˜‡â–Å1
+F	java:S106"+Replace this use of System.out by a logger.( +8İ¡—Å1
+G	java:S106"+Replace this use of System.out by a logger.(ÛÑ²™8ß¡—Å1
+G	java:S106"+Replace this use of System.out by a logger.(Çµ’ô8á¡—Å1
+L	java:S106"+Replace this use of System.out by a logger.(ÇØÆùÿÿÿÿ8ï³¦—Å1
+L	java:S106"+Replace this use of System.out by a logger.(ÂÒõêşÿÿÿÿ8ñ³¦—Å1
+L	java:S106"+Replace this use of System.out by a logger.(ƒ±¸Êşÿÿÿÿ8„´¦—Å1
+L	java:S106"+Replace this use of System.out by a logger.(˜¯Ë¥øÿÿÿÿ8†´¦—Å1
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(˜¯Ë¥øÿÿÿÿ8ı³¦—Å1
+L	java:S106#"+Replace this use of System.out by a logger.(„ÃÌÿÿÿÿÿ8‰´¦—Å1
+L	java:S106%"+Replace this use of System.out by a logger.(ãÑ™ùÿÿÿÿ8´¦—Å1
+F	java:S106*"+Replace this use of System.out by a logger.( +8õÜ½—Å1
+L	java:S106,"+Replace this use of System.out by a logger.(Üæşÿÿÿÿ8ŞÊÈ—Å1
+F
+java:S21409")Use "java.util.Random.nextInt()" instead.(š›Û 8Ì‡â–Å1
+S
+java:S11446"7Remove this unused private "generateCardNumber" method.(Ÿİ»G8š´¦—Å1
